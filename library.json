@@ -1,0 +1,21 @@
+{
+  "name": "SPIFFS_Shell",
+  "version": "0.0.1",
+  "description": "A Serial-based interface that resembles a Linux shell for interacting with SPIFFS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masaad01/SPIFFS_Shell"
+  },
+  "authors": [
+    {
+      "name": "masaad01",
+      "email": "masaad01@users.noreply.github.com",
+      "url": "https://github.com/masaad01/SPIFFS_Shell",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT License",
+  "homepage": "https://github.com/masaad01/SPIFFS_Shell",
+  "frameworks": "*",
+  "platforms": "esp32, esp8266"
+}
