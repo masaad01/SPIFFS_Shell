@@ -1,3 +1,9 @@
+/*
+  SPIFFS_Shell.h - Library for SPIFFS Shell.
+  Created by masaad01, 2023-06-02.
+  Released into the public domain.
+*/
+
 #ifndef SPIFFS_SHELL_H
 #define SPIFFS_SHELL_H
 

@@ -1,6 +1,6 @@
 {
   "name": "SPIFFS_Shell",
-  "version": "0.0.1",
+  "version": "0.1",
   "description": "A Serial-based interface that resembles a Linux shell for interacting with SPIFFS.",
   "repository": {
     "type": "git",
