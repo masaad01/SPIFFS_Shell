@@ -1,3 +1,5 @@
+#ifndef SPIFFS_SHELL_H
+#define SPIFFS_SHELL_H
 
 #ifndef FS
 #include <FS.h>
@@ -304,3 +306,6 @@ private:
     Serial.println("help - Show available commands");
   }
 }SPIFFSShell;
+
+
+#endif // SPIFFS_SHELL_H
